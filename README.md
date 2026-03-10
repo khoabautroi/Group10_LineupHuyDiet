@@ -143,4 +143,25 @@ Two classical combinatorial optimization problems are included:
 
 ---
 
-## 📂 Project Structure
+## 📊 Research Goals
+
+This project aims to:
+
+- Understand the **fundamental principles of optimization algorithms**
+- Implement algorithms **from scratch**
+- Compare algorithm performance on standard benchmarks
+- Analyze **exploration vs. exploitation trade-offs**
+
+---
+
+## 📚 References
+
+Key references used in this project include:
+
+- Dorigo, M. – *Ant Colony Optimization*
+- Kennedy & Eberhart – *Particle Swarm Optimization*
+- Storn & Price – *Differential Evolution*
+
+---
+
+
