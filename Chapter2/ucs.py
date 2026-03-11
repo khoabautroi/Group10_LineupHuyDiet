@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import heapq
 
 def ucs(graph, start, goal):
@@ -37,3 +38,6 @@ graph = {
 
 result = ucs(graph, 'A', 'G')
 print("Path and cost:", result)
+=======
+
+>>>>>>> 975aa8059aedf4aa40d9d54e5b4d2dd51312d189

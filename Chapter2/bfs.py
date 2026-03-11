@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from collections import deque
 
 def bfs(graph, start, goal):
@@ -42,3 +43,6 @@ graph = {
 # Run BFS
 result = bfs(graph, 'A', 'D')
 print("Path found:", result)
+=======
+
+>>>>>>> 975aa8059aedf4aa40d9d54e5b4d2dd51312d189

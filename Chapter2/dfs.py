@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def dfs(graph, start, goal):
     # Stack for DFS
     stack = [[start]]
@@ -37,3 +38,6 @@ graph = {
 
 result = dfs(graph, 'A', 'G')
 print("Path found:", result)
+=======
+
+>>>>>>> 975aa8059aedf4aa40d9d54e5b4d2dd51312d189

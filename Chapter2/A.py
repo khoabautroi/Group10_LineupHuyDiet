@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import heapq
 
 def a_star(graph, heuristic, start, goal):
@@ -49,3 +50,6 @@ heuristic = {
 
 result = a_star(graph, heuristic, 'A', 'G')
 print("Path and cost:", result)
+=======
+
+>>>>>>> 975aa8059aedf4aa40d9d54e5b4d2dd51312d189
